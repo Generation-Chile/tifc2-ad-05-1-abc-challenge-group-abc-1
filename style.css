@@ -10,3 +10,11 @@ body {
 h3{
   color: green;
 }
+
+.azul{
+  color: blue;
+}
+
+#presented-by {
+  color: red;
+}
