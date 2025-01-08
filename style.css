@@ -3,3 +3,18 @@ html {
     width: 100%;
   }
   
+body {
+  background-color: antiquewhite;
+}
+
+h3{
+  color: green;
+}
+
+.azul{
+  color: blue;
+}
+
+#presented-by {
+  color: red;
+}
