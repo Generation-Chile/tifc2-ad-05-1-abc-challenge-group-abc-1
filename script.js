@@ -1,6 +1,4 @@
-/*•	Cuando alguien haga clic en cualquier etiqueta h5, 
-haga que cambie a 3 colores aleatorios repetibles. 
-Verde, Azul y Rojo.*/
+/*Cuando alguien haga clic en cualquier etiqueta h5,cambie a 3 colores aleatorios repetibles: Verde, Azul y Rojo.*/
 
 const h5Elements = document.querySelectorAll('h5');
 
